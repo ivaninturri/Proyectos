@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1536175992 source:c:\users\gustavo\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecacalculos.c
+	<stdio.h>
+	"bibliotecaCalculos.h"
+
+1536175402 c:\users\gustavo\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecacalculos.h
+
+1536177687 source:c:\users\gustavo\desktop\tp_laboratorio_1\trabajopractico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536172540 c:\users\gustavo\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.h
+
+1536177554 source:c:\users\gustavo\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536072792 source:c:\users\alumno\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecacalculos.c
+	<stdio.h>
+	"bibliotecaCalculos.h"
+
+1536072792 c:\users\alumno\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecacalculos.h
+
+1536072792 source:c:\users\alumno\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536072792 c:\users\alumno\desktop\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.h
+
+1536072792 source:c:\users\alumno\desktop\tp_laboratorio_1\trabajopractico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536070200 source:c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536070200 c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\trabajopractico 1\bibliotecaopciones.h
+
+1536070200 c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\trabajopractico 1\bibliotecacalculos.h
+
+1536070200 source:c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\trabajopractico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536177975 source:c:\users\tano\desktop\trabajopractico 1\bibliotecacalculos.c
+	<stdio.h>
+	"bibliotecaCalculos.h"
+
+1536177975 c:\users\tano\desktop\trabajopractico 1\bibliotecacalculos.h
+
+1618259357 source:c:\users\tano\desktop\trabajopractico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536177975 c:\users\tano\desktop\trabajopractico 1\bibliotecaopciones.h
+
+1618262107 source:c:\users\tano\desktop\trabajopractico 1\bibliotecaopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536177975 source:c:\users\tano\desktop\facultad\trabajopractico 1\bibliotecacalculos.c
+	<stdio.h>
+	"bibliotecaCalculos.h"
+
+1536177975 c:\users\tano\desktop\facultad\trabajopractico 1\bibliotecacalculos.h
+
+1618262107 source:c:\users\tano\desktop\facultad\trabajopractico 1\bibliotecaopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
+1536177975 c:\users\tano\desktop\facultad\trabajopractico 1\bibliotecaopciones.h
+
+1618259357 source:c:\users\tano\desktop\facultad\trabajopractico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaOpciones.h"
+	"bibliotecaCalculos.h"
+
